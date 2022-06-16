@@ -10,3 +10,4 @@ Your job is to predict the price the company should sell a car based on the avai
 
 The objective of the challenge is to predict the price (Amount (Million Naira) the company should sell a car based on the available data (Location, Maker, Model, Year, Colour, Amount (Million Naira), Type, Distance). The objective is the predict the selling price.
 
+Link : https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon
